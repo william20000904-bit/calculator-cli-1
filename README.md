@@ -3,7 +3,7 @@ A simple command-line calculator written in python.
 ## Features
 - Addition
 - Subtraction
-- Myltiplication
+- Multiplication
 - Division
 - Menu-based interaction
 ## How to run
@@ -12,3 +12,13 @@ python calculator_cli.py
 ## Author
 Peilin WU
 IT Student at WelTec(NZ)
+
+## Example
+
+Example usage:
+
+Enter option: 1
+Enter first number: 5
+Enter second number: 3
+
+Result: 8
